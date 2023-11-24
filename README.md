@@ -1,1 +1,0 @@
-# barisan-aritmatika.io
